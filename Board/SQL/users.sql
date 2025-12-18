@@ -11,4 +11,4 @@ CREATE TABLE `aloha`.`users` (
 ) COMMENT = '회원';
 
 -- 회원 조회
-SELECT * FROM users;
+SELECT * FROM users; 

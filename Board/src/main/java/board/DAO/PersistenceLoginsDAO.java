@@ -1,4 +1,4 @@
-package board.DAO;
+package board.DAO; 
 
 import com.alohaclass.jdbc.dao.BaseDAOImpl;
 

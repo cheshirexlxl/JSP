@@ -1,5 +1,5 @@
 <!-- <title>project💻 - ALOHA BOARD📝</title> -->
-<!-- 파비콘 -->
+<!-- 파비콘 --> 
 <link rel="icon" href="${ root }/static/img/logo.png" type="image/x-icon">
 <!-- 썸네일 이미지 설정 -->
 <meta property="og:image" content="https://i.imgur.com/yiTQ3EV.jpg">

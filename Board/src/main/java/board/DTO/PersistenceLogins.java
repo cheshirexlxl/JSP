@@ -1,4 +1,4 @@
-package board.DTO;
+package board.DTO; 
 
 import java.util.Date;
 import com.alohaclass.jdbc.annotation.*;

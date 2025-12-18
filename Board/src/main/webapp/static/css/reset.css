@@ -8,7 +8,7 @@ a {text-decoration: inherit; color: inherit;}
 li {list-style: none;}
 img {vertical-align: middle;}
 a img {border: none;}
-a:focus {outline: none}
+a:focus {outline: none} 
 button:focus {outline: none}
 body { 
     font-family: 'Noto Sans KR', sans-serif;

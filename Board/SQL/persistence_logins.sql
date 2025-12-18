@@ -11,4 +11,4 @@ CREATE TABLE `persistence_logins` (
 
 -- 조회
 SELECT * FROM persistence_logins;
-DELETE FROM persistence_logins;
+DELETE FROM persistence_logins; 

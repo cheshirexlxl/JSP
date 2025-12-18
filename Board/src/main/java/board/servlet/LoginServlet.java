@@ -1,4 +1,4 @@
-package board.servlet;
+package board.servlet; 
 
 import java.io.IOException;
 import java.net.URLDecoder;
